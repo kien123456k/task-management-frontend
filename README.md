@@ -41,3 +41,8 @@ username: user3 / password: Password3
 ```
 
 This application acts as the front-end for the Task Management application developed by Ariel Weinberger.
+
+# License & copyright
+
+© Kirin Tran, FPT University TP.HCM
+Licensed under the [MIT LICENSE](LICENSE).
