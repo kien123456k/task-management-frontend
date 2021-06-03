@@ -3,6 +3,8 @@
 A web application that may save you from missing tasks.
 But this is still a simple one. 
 
+Here is [the Backend](https://github.com/kien123456k/task-management-backend) that this app is using.
+
 `The more full feature is comming soon!`
 
 ## Technology
