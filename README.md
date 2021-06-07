@@ -18,7 +18,13 @@ Here is [the Backend](https://github.com/kien123456k/task-management-backend) th
 - Backend
   - NestJS - Server Core
   - Mongoose + MongoDB - Database
-### Project Setup
+  - Passport - Authentication
+
+## Some preview images
+<img src="./docs/images/authentication.png" width="400" height="196" />
+<img src="./docs/images/tasks.png" width="400" height="196" />
+
+## Project Setup
 
 Before jump into this project, you need to create `.env.local` with properties like `.env.example`, replace REACT_APP_BASE_URL value with your API URL.
 Install dependencies
