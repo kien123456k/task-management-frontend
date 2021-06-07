@@ -21,8 +21,8 @@ Here is [the Backend](https://github.com/kien123456k/task-management-backend) th
   - Passport - Authentication
 
 ## Some preview images
-<img src="./docs/images/authentication.png" width="400" height="196" />
-<img src="./docs/images/tasks.png" width="400" height="196" />
+<img src="./docs/images/authentication.png" width="800" height="392" />
+<img src="./docs/images/tasks.png" width="800" height="392" />
 
 ## Project Setup
 
