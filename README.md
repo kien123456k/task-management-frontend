@@ -1,4 +1,7 @@
 # <img src="https://raw.githubusercontent.com/kien123456k/task-management-frontend/master/public/favicon.ico" width="50" height="50"/> - Task Management
+
+## [Live demo](https://youtu.be/8QvVxK2__P4)
+
 ## What is Task Management?
 A web application that may save you from missing tasks.
 But this is still a simple one. 
@@ -40,15 +43,9 @@ Build for deploy
 ```
 yarn build
 ```
+## Reference
 
-Here is the only 3 accounts to sign in
-```
-username: user1 / password: Password1
-username: user2 / password: Password2
-username: user3 / password: Password3
-```
-
-This application acts as the front-end for the Task Management application developed by Ariel Weinberger.
+This application is configuration of [task-management-frontend](https://github.com/arielweinberger/task-management-frontend) of [Ariel Weinberger](https://github.com/arielweinberger).
 
 # License & copyright
 
